@@ -24,7 +24,7 @@ Data Sheet
 Analysis Examples
 Dashboard/Reports
 
-- Dashboard interaction
+- Dashboard interaction <A href="https://github.com/yashvashivale1992/Data-Analysis-Dashboard/blob/main/dashboard.png">View Dashboard</a>
 
 ## Objective
 To analyze raw business data and convert it into meaningful insights for better decision-making.
