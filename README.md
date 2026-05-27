@@ -29,13 +29,13 @@ Dashboard/Reports
 ## Objective
 To analyze raw business data and convert it into meaningful insights for better decision-making.
 
-Skills Demonstrated
+## Skills Demonstrated
 Data Analysis
 Data Visualization
 Business Analytics
 Reporting
 Excel Automation
 Problem Solving
-Author
 
+Author
 Yash Vashivale.
