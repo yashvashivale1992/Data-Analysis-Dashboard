@@ -5,7 +5,7 @@ This project demonstrates data analysis and reporting using Microsoft Excel. The
 ## Dataset Used
 - <A href="https://github.com/yashvashivale1992/Data-Analysis-Dashboard/blob/main/Vision%20-%20I%20%20Data%20Analysis%20Task%20(1).xlsx">Dataset</a>
 
-Features
+## Features
 Data Cleaning
 Excel Formulas
 Data Visualization
@@ -23,8 +23,10 @@ Files Included
 Data Sheet
 Analysis Examples
 Dashboard/Reports
-Objective
 
+- Dashboard interaction
+
+## Objective
 To analyze raw business data and convert it into meaningful insights for better decision-making.
 
 Skills Demonstrated
@@ -36,4 +38,4 @@ Excel Automation
 Problem Solving
 Author
 
-Your Name
+Yash Vashivale.
