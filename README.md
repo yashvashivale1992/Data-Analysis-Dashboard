@@ -39,5 +39,5 @@ To analyze raw business data and convert it into meaningful insights for better 
 
   ## Dashboard <img width="1603" height="779" alt="dashboard" src="https://github.com/user-attachments/assets/cf6aed93-c5bd-4f75-ae16-38a73f658d5e" />
   
-##Author
-Yash Vashivale
+## Author
+- Yash Vashivale
